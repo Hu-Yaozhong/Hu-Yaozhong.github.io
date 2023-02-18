@@ -1,7 +1,5 @@
 <html>
-  <body>
-    <dir>
-      <p>v0.2.0 Beta</p>
-    </dir>
-  </body>
+<body>
+<p>v0.2.0 Beta</p>
+</body>
 </html>
